@@ -1,0 +1,1 @@
+Copy amiibo .bin files here. Do not copy other .bin files like keys, secrets or any auth bin
